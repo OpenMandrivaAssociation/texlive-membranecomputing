@@ -1,6 +1,6 @@
 Name:		texlive-membranecomputing
 Version:	64627
-Release:	1
+Release:	2
 Summary:	Membrane Computing notation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/membranecomputing
