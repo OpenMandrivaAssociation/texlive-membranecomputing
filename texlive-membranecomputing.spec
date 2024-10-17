@@ -3,7 +3,7 @@ Version:	64627
 Release:	2
 Summary:	Membrane Computing notation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/membranecomputing
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/membranecomputing
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/membranecomputing.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/membranecomputing.doc.r%{version}.tar.xz
